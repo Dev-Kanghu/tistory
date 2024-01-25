@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main(void) {
+	int a = 10;
+	printf("a´Â %d\n", a);
+	a++;
+	printf("a´Â %d\n", a);
+	a++;
+	printf("a´Â %d\n", a);
+	return 0;
+}
